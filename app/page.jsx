@@ -10,8 +10,8 @@ import Header2 from "@/components/headers/Header2";
 import Collections from "@/components/homes/home-1/Collections";
 
 export const metadata = {
-  title: "Gaby Flores - Flores Online, 70% Off + Entrega em 1h + Frete Grátis",
-  description: "A Gaby Flores é uma floricultura especializada em buquês personalizados e arranjos florais para todas as ocasiões. Encante-se com a beleza das nossas flores!",
+  title: "Mundo das Flores - Flores Online, 70% Off + Entrega em 1h + Frete Grátis",
+  description: "A Mundo das Flores é uma floricultura especializada em buquês personalizados e arranjos florais para todas as ocasiões. Encante-se com a beleza das nossas flores!",
   viewport: "width=device-width, initial-scale=1.0",
   themeColor: "#FFFFFF",
   icons: {
@@ -19,11 +19,11 @@ export const metadata = {
   },
   openGraph: {
     locale: "pt-BR",
-    title: "Gaby Flores - Flores Online, 70% Off + Entrega em 1h + Frete Grátis",
-    siteName: "Gaby Flores",
+    title: "Mundo das Flores - Flores Online, 70% Off + Entrega em 1h + Frete Grátis",
+    siteName: "Mundo das Flores",
     type: "website",
-    description: "A Gaby Flores é uma floricultura especializada em buquês personalizados e arranjos florais para todas as ocasiões. Encante-se com a beleza das nossas flores!",
-    url: "https://www.Gabyflores.shop/",
+    description: "A Mundo das Flores é uma floricultura especializada em buquês personalizados e arranjos florais para todas as ocasiões. Encante-se com a beleza das nossas flores!",
+    url: "https://www.mundodasflores.shop",
     images: [
       {
         url: "/images/logo/logo.png",
@@ -31,10 +31,10 @@ export const metadata = {
     ],
   },
   alternates: {
-    canonical: "https://www.Gabyflores.shop/",
+    canonical: "https://www.mundodasflores.shop",
   },
-  keywords: ["Gaby Flores", "Gaby Flores", "Floricultura", "Flores", "Buquês", "Arranjos florais", "São Paulo", "SP", "Presentes", "Casamentos", "Eventos", "Decoração", "Flores frescas", "Rosas", "Orquídeas", "Entrega de flores"],
-  authors: [{ name: "Gaby Flores", url: "https://www.Gabyflores.shop/" }],
+  keywords: ["Mundo das Flores", "Mundo das Flores", "Floricultura", "Flores", "Buquês", "Arranjos florais", "São Paulo", "SP", "Presentes", "Casamentos", "Eventos", "Decoração", "Flores frescas", "Rosas", "Orquídeas", "Entrega de flores"],
+  authors: [{ name: "Mundo das Flores", url: "https://www.mundodasflores.shop" }],
 };
 export default function Home() {
   return (
